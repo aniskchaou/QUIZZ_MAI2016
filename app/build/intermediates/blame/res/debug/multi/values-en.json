@@ -1,0 +1,1287 @@
+[
+    {
+        "outputFile": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 40,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 40,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 44,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 44,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 40,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 40,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 41,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 46,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 45,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 67,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 77,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 40,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 40,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endColumn": 44,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1767
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1772,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\C:\\Users\\Sami\\AndroidStudioProjects\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 40,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 46,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 40,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 40,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 40,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 40,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 43,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 43,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 44,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 44,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 40,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 40,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 40,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 40,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 41,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 41,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 46,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 46,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 45,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 45,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 67,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 67,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 77,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 77,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 40,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 40,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 40,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 40,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 44,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 44,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Quizz_Android_Glid_2016_FINAL\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1625
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 40,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 40,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 43,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 43,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 44,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 40,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 40,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 41,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 46,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 45,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 67,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 77,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 40,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 40,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 44,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "C:\\Users\\riheb\\Desktop\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 40,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 46,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 40,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 40,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 40,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 40,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 44,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 44,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 44,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 44,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 40,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 40,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 40,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 40,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 41,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 41,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 46,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 46,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 45,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 45,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 67,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 67,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 77,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 77,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 40,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 40,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 40,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 40,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endColumn": 44,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 44,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1767
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1772,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "C:\\home\\bilel\\AndroidStudioProjects\\QUIZZGLID\\Quizz_Android_Glid_2016\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1625
+                    }
+                }
+            }
+        ]
+    }
+]

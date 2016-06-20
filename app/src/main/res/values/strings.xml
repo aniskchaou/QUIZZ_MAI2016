@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Bonjour tout le monde</string>
+    <string name="app_name" translatable="false">GLID Quizzzz</string>
+    <string name="btnRules">Aide</string>
+    <string name="bntPlay">Jouer</string>
+    <string name="btnLevels">Niveauax</string>
+    <string name="rules">Welcom to our Quiz Game</string>
+    <string name="btnExit">Quitter</string>
+    <string name="btnLang">Paramètre</string>
+    <string name="btnBack">Retour</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnAnswers">Réponses</string>
+    <string name="txtChooseDiff">Choisir le Niveau de Dificulité du Jeux</string>
+    <string name="txtEasy">Facil</string>
+    <string name="txtMedium">Moyen</string>
+    <string name="txtHard">Diffficil</string>
+    <string name="btnNext">Suivant</string>
+    <string name="btnUpdate">Valider</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Welcome</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_exit">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="langue_array">
+        <item>Français</item>
+        <item>Anglais</item>
+        <item>Espagnol</item>
+    </string-array>
+</resources>

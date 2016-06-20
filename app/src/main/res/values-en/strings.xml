@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GLID Quizzzz</string>
+    <string name="hello">Hello World</string>
+    <string name="bntPlay">Play</string>
+    <string name="btnLevels">Levels</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnLang">Setting</string>
+    <string name="rules">Bien venue dans notre Jeu de Quiz</string>
+    <string name="btnRules">Help</string>
+    <string name="btnBack">Back</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnAnswers">Answers</string>
+    <string name="txtChooseDiff">Choose Difficulty Level of the game</string>
+    <string name="txtEasy">Easy</string>
+    <string name="txtMedium">Medium</string>
+    <string name="txtHard">Hard</string>
+    <string name="btnNext">Next</string>
+    <string name="btnUpdate">Validate</string>
+</resources>
