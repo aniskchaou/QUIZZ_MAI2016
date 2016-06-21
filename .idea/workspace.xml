@@ -40,10 +40,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="e#2536#2537#0" expanded="true" />
-                <element signature="e#2587#2588#0" expanded="true" />
+                <element signature="e#2318#2319#0" expanded="true" />
+                <element signature="e#2369#2370#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,11 +52,11 @@
       <file leaf-file-name="QuizActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/QuizActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4562334">
-              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="41" column="43" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="43" />
               <folding>
-                <element signature="e#5030#5031#0" expanded="true" />
-                <element signature="e#5058#5059#0" expanded="true" />
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5055#5056#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1731,8 +1731,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/fragments/QuestionFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/ServiceMusique2.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/QuizActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2170,8 +2170,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="73" selection-end-column="5" />
           <folding>
-            <element signature="e#2536#2537#0" expanded="true" />
-            <element signature="e#2587#2588#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+            <element signature="e#2369#2370#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2181,8 +2181,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5030#5031#0" expanded="true" />
-            <element signature="e#5058#5059#0" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5055#5056#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2276,21 +2276,21 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#2536#2537#0" expanded="true" />
-            <element signature="e#2587#2588#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+            <element signature="e#2369#2370#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tmm/android/quizzGlid/QuizActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4562334">
-          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="43" />
           <folding>
-            <element signature="e#5030#5031#0" expanded="true" />
-            <element signature="e#5058#5059#0" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5055#5056#0" expanded="true" />
           </folding>
         </state>
       </provider>

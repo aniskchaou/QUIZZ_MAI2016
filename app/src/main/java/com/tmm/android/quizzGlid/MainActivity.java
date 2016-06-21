@@ -21,11 +21,7 @@ public class MainActivity extends Activity
 
     private CharSequence mTitle;
 
-    @Override
-    protected void onResume() {
-        super.onResume();
 
-    }
 
 
 
@@ -78,11 +74,7 @@ public class MainActivity extends Activity
     }
 
 
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        stopService(new Intent(this, ServiceMusique.class));
-    }
+
 
 
 

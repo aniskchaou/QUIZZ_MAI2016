@@ -48,7 +48,7 @@ public class QuizActivity extends Activity  implements LoaderManager.LoaderCallb
 
     }
 
-   
+
 
     public void loadQuestion(Question question) {
         getFragmentManager().beginTransaction().add(R.id.container, QuestionFragment.newInstance(question)).commit();
