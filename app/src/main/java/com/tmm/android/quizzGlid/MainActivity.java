@@ -22,6 +22,14 @@ public class MainActivity extends Activity
     private CharSequence mTitle;
 
     @Override
+    protected void onResume() {
+        super.onResume();
+
+    }
+
+
+
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
@@ -31,15 +39,17 @@ public class MainActivity extends Activity
                 getFragmentManager().findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
         //Start music service
-        Intent i=new Intent(getApplicationContext(),ServiceMusique.class);
+      //  Intent i=new Intent(getApplicationContext(),ServiceMusique.class);
 
-        startService(i);
+       // startService(i);
         // Set up the drawer.
         mNavigationDrawerFragment.setUp(
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
 
     }
+
+
 
     @Override
     public void onNavigationDrawerItemSelected(int position) {
@@ -67,12 +77,12 @@ public class MainActivity extends Activity
         actionBar.setTitle(mTitle);
     }
 
+
     @Override
     protected void onDestroy() {
         super.onDestroy();
         stopService(new Intent(this, ServiceMusique.class));
     }
-
 
 
 
@@ -92,11 +102,14 @@ public class MainActivity extends Activity
 
     boolean doubleBackToExitPressedOnce = false;
 
+
+
     @Override
     public void onBackPressed() {
 
         if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
+
             return;
         }
 
@@ -119,4 +132,6 @@ public class MainActivity extends Activity
             getFragmentManager().popBackStack();
         }
     }
+
+
 }

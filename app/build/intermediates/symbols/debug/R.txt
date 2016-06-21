@@ -112,7 +112,8 @@ int layout rules 0x7f03000b
 int layout welcome 0x7f03000c
 int menu global 0x7f0a0000
 int menu main 0x7f0a0001
-int raw song 0x7f040000
+int raw quiz 0x7f040000
+int raw song 0x7f040001
 int string action_example 0x7f050011
 int string action_settings 0x7f050012
 int string app_name 0x7f050000

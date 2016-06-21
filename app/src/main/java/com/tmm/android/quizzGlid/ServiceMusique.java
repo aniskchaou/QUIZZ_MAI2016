@@ -34,4 +34,17 @@ public class ServiceMusique extends Service {
 
         return START_STICKY;
     }
+
+
+    @Override
+    public boolean onUnbind(Intent intent) {
+        MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.song);
+
+
+        mediaPlayer.setVolume(1,1);
+        mediaPlayer.setLooping(true);
+        mediaPlayer.start();
+        return super.onUnbind(intent);
+
+    }
 }

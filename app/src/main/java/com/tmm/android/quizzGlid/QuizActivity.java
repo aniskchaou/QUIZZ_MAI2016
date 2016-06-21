@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.Loader;
 import android.content.SharedPreferences;
 import android.database.Cursor;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -33,16 +34,21 @@ public class QuizActivity extends Activity  implements LoaderManager.LoaderCallb
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.quizz);
-        Intent i=new Intent(getApplicationContext(),ServiceMusique.class);
 
-        startService(i);
+
         mLoaderManager = getLoaderManager();
 
         if (savedInstanceState == null) {
             mLoaderManager.initLoader(QUESTION_TABLE_ID, null, this);
         }
 
+        Intent in=new Intent(this,ServiceMusique.class);
+
+        startService(in);
+
     }
+
+   
 
     public void loadQuestion(Question question) {
         getFragmentManager().beginTransaction().add(R.id.container, QuestionFragment.newInstance(question)).commit();
@@ -54,11 +60,14 @@ public class QuizActivity extends Activity  implements LoaderManager.LoaderCallb
 
     boolean doubleBackToExitPressedOnce = false;
 
+
+
     @Override
     public void onBackPressed() {
 
         if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
+
             return;
         }
 
@@ -73,6 +82,8 @@ public class QuizActivity extends Activity  implements LoaderManager.LoaderCallb
             }
         }, 2000);
     }
+
+
 
     private int getDifficultySettings() {
         SharedPreferences settings = this.getSharedPreferences(Constants.SETTINGS, 0);
@@ -151,9 +162,5 @@ public class QuizActivity extends Activity  implements LoaderManager.LoaderCallb
         return quizz;
     }
 
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        stopService(new Intent(this, ServiceMusique.class));
-    }
+
 }
